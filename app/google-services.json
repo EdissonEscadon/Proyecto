@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724998061617",
+    "firebase_url": "https://tienda-85256.firebaseio.com",
+    "project_id": "tienda-85256",
+    "storage_bucket": "tienda-85256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724998061617:android:647f98751edb0dfa5e9f10",
+        "android_client_info": {
+          "package_name": "com.edissonescandon.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724998061617-v2hfonvk3djm2oqom1kamff010e6ua3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaV-VKlOAyPVh-YWRPrHIbKKXsz6fXafE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724998061617-v2hfonvk3djm2oqom1kamff010e6ua3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
